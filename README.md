@@ -1,6 +1,7 @@
 # Lab CCNA
 Lab Cisco CCNA  3-tier layer design  with different network features 
-![screenshot](./3-tiers-labs.png)
+
+![screenshot](./3-tier-labs.png)
 ## simulator
 Packet tracer cisco
 ## Equipement
